@@ -1,4 +1,4 @@
 # Summary
 
-* [Sophie的第一本Gitbook](sophiede_di_yi_ben_gitbook.md)
+* [Sophie's 1st journey on Gitbook](Sophie's 1st journey on Gitbook)
 
