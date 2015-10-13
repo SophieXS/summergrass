@@ -1,4 +1,5 @@
 # Summary
 
-* [Sophie's 1st journey on Gitbook](Sophie's 1st journey on Gitbook)
+* [Introduction](README.md)
+* [Sophie's 1st journey on Gitbook](sophies_1st_journey_on_gitbook.md)
 
